@@ -1,6 +1,6 @@
 # CSCI 213 Lab 10: Working with Git
 
-_Author_: Madison Archer
+*Author*: Madison Archer
 
 This is the Git lab for CSCi 213 Software Developments. One class was added, Car.java,
 which extends the abstract Vehicle class. The Car class contains the following:
