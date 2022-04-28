@@ -35,7 +35,7 @@ public class Car extends Vehicle
 	 */
 	public int getDoors()
 	{
-		//return the doors
+		//returns the doors
 		return this.doors;
 	}
 	
@@ -45,7 +45,7 @@ public class Car extends Vehicle
 	 */
 	public int getPassengers()
 	{
-		//return the passengers
+		//returns the passengers
 		return this.passengers;
 	}
 	
@@ -58,7 +58,7 @@ public class Car extends Vehicle
 	{
 		//create a string
 		String string = String.format("%d-doors %s %s with license %s.", this.doors, getMake(), getModel(), getPlate()); 
-		//return string
+		//returns the string
 		return string;
 	}
 	
